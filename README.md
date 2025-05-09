@@ -155,7 +155,7 @@ Examples below demonstrate the difference between the responses of GPT2Chat with
         <td>
             How can I improve my English skills?
         </td>
-        <td>
+        <td><p>
             To improve your English skills, try the following:
 
             1. Learn the language: Start by learning the language from a book, magazine, or online newspaper, and gradually increase your English skills as you become more familiar with the language.
@@ -163,7 +163,7 @@ Examples below demonstrate the difference between the responses of GPT2Chat with
             2. Use an English tutor: An English tutor can help you improve your English skills by providing practical advice and guidance. They can help you learn basic vocabulary, grammar, and basic vocabulary, as well as provide a support system to help you practice in English.
 
             3. Study vocabulary: Spend time studying in English, such as practicing with English
-        </td>
+        </p></td>
     </tr>
 </table>
 
@@ -199,7 +199,7 @@ Examples below demonstrate the difference between the responses of GPT2Chat with
         <td>
             How can we maintain our well-being?
         </td>
-        <td>
+        <td><p>
             Here are some ways to maintain your well-being:
 
             1. Reduce stress: Find ways to reduce stress, such as spending time in nature or engaging in active exercise.
@@ -209,7 +209,7 @@ Examples below demonstrate the difference between the responses of GPT2Chat with
             3. Exercise regularly: Regular exercise can help improve your overall health and well-being, as it can reduce the risk of developing chronic illnesses such as heart disease, stroke, and other chronic conditions.
 
             4. Avoid stress: Avoiding stress and
-        </td>
+        </p></td>
     </tr>
 </table>
 
