@@ -156,13 +156,7 @@ Examples below demonstrate the difference between the responses of GPT2Chat with
             How can I improve my English skills?
         </td>
         <td><p>
-            To improve your English skills, try the following:
-
-            1. Learn the language: Start by learning the language from a book, magazine, or online newspaper, and gradually increase your English skills as you become more familiar with the language.
-
-            2. Use an English tutor: An English tutor can help you improve your English skills by providing practical advice and guidance. They can help you learn basic vocabulary, grammar, and basic vocabulary, as well as provide a support system to help you practice in English.
-
-            3. Study vocabulary: Spend time studying in English, such as practicing with English
+            To improve your English skills, try the following:<br><br>1. Learn the language: Start by learning the language from a book, magazine, or online newspaper, and gradually increase your English skills as you become more familiar with the language.<br><br>2. Use an English tutor: An English tutor can help you improve your English skills by providing practical advice and guidance. They can help you learn basic vocabulary, grammar, and basic vocabulary, as well as provide a support system to help you practice in English.<br><br>3. Study vocabulary: Spend time studying in English, such as practicing with English
         </p></td>
     </tr>
 </table>
@@ -200,15 +194,7 @@ Examples below demonstrate the difference between the responses of GPT2Chat with
             How can we maintain our well-being?
         </td>
         <td><p>
-            Here are some ways to maintain your well-being:
-
-            1. Reduce stress: Find ways to reduce stress, such as spending time in nature or engaging in active exercise.
-
-            2. Reduce stress: Find ways to reduce stress, such as practicing relaxation techniques, practicing relaxation techniques, or taking time for self-care.
-
-            3. Exercise regularly: Regular exercise can help improve your overall health and well-being, as it can reduce the risk of developing chronic illnesses such as heart disease, stroke, and other chronic conditions.
-
-            4. Avoid stress: Avoiding stress and
+            Here are some ways to maintain your well-being:<br><br>1. Reduce stress: Find ways to reduce stress, such as spending time in nature or engaging in active exercise.<br><br>2. Reduce stress: Find ways to reduce stress, such as practicing relaxation techniques, practicing relaxation techniques, or taking time for self-care.<br><br>3. Exercise regularly: Regular exercise can help improve your overall health and well-being, as it can reduce the risk of developing chronic illnesses such as heart disease, stroke, and other chronic conditions.<br><br>4. Avoid stress: Avoiding stress and
         </p></td>
     </tr>
 </table>
